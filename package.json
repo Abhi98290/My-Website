@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "homepage": "https://abhi98290.github.io/My-Website"
+  "homepage": "https://abhi98290.github.io/My-Website",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
